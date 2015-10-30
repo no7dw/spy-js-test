@@ -8,8 +8,9 @@
 FAQ: 
 [没出效果怎么办][2]
 [老是问我网络设置的sudo密码怎么办][3]
-
+[youtue demo][4]
 
   [1]: chrome://net-internals/#proxy
   [2]: http://stackoverflow.com/questions/23267605/spy-js-in-webstorm-not-capturing
   [3]: http://stackoverflow.com/questions/11819336/prevent-networksetup-from-asking-password
+  [4]: https://www.youtube.com/watch?v=vPIbwxzC5cU
